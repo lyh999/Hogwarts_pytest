@@ -1,2 +1,3 @@
 class demo2:
-    pass
+    def red(self):
+        print('hello world')
